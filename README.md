@@ -1,5 +1,5 @@
 # Chatbot-Song-Recommender-System
-Music is an integral part of our lives. However, since the social media platforms like TikTok and Instagramhave a huge influence on the music charts worldwide, users 
+Music is an integral part of our lives. However, since the social media platforms like TikTok and Instagram have a huge influence on the music charts worldwide, users 
 are exposed solely to mainstream music and therefore the recommendations on music streaming platforms are not very personalized. 
 A song and emotion-based recommendation system permits the users to listen to music based on their emotions.
 Existing systems use audio signals using the DNN approach and collaborative filtering to recommend songs based on the user's history. 
